@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<integer>1500</integer>
+		<string>Wade</string>
+	</array>
+	<array>
+		<integer>1350</integer>
+		<string>Dan</string>
+	</array>
+	<array>
+		<integer>1200</integer>
+		<string>Jane</string>
+	</array>
+	<array>
+		<integer>1050</integer>
+		<string>Joe</string>
+	</array>
+	<array>
+		<integer>900</integer>
+		<string>José</string>
+	</array>
+	<array>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<integer>0</integer>
+		<string></string>
+	</array>
+</array>
+</plist>
